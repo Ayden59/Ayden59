@@ -11,7 +11,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="24"/> Photoshop  
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="24"/> Illustrator  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="24"/> Adobe Premiere Pro  
-Communication, création de contenus, gestion des réseaux sociaux, rédaction  
+Communication, création de contenus, gestion des réseaux sociaux  
+rédaction  
 
 ---
 
