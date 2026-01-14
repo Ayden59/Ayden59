@@ -49,7 +49,7 @@ Spécialités HGGSP et SES, option maths complémentaires
 ---
 
 ## Contact  
-📧 Email : **[ayden.tange [at] etu.univ-littoral.fr]**  
+📧 Email : **ayden.tange [at] etu.univ-littoral.fr**  
 🔗 LinkedIn : **[Ayden Tange](https://www.linkedin.com/in/ayden-tange/)**  
 
 ---
